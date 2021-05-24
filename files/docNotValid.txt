@@ -1,6 +1,6 @@
-docnum98321 - Некорректный номер договора
-dnum762187 - Некорректный номер договора
-doum65432187 - Некорректный номер договора
-docum6543987 - Некорректный номер договора
-docnum65487 - Некорректный номер договора
-docnu65432198 - Некорректный номер договора
+docnum98321 - Некорректный номер договораjava.util.regex.Matcher[pattern=docnum region=0,11 lastmatch=]
+dnum762187 - Некорректный номер договораjava.util.regex.Matcher[pattern=docnum region=0,10 lastmatch=]
+doum65432187 - Некорректный номер договораjava.util.regex.Matcher[pattern=docnum region=0,12 lastmatch=]
+docum6543987 - Некорректный номер договораjava.util.regex.Matcher[pattern=docnum region=0,12 lastmatch=]
+docnum65487 - Некорректный номер договораjava.util.regex.Matcher[pattern=docnum region=0,11 lastmatch=]
+docnu65432198 - Некорректный номер договораjava.util.regex.Matcher[pattern=docnum region=0,13 lastmatch=]
