@@ -47,11 +47,9 @@ public class DocReader {
                 Matcher matcher = pattern.matcher(docNum);
                     if (docNum.length() == 15 && matcher.find()) {
                         outValid.write("Номер договора - " + docNum);
-                        System.out.println("Номер договора - " + docNum);
                         outValid.write("\n");
                     } else{
                         outNotValid.write(docNum + " - Некорректный номер договора");
-                        System.out.println(docNum +  " - Некорректный номер договора");
                         outNotValid.write("\n");
                     }
 
